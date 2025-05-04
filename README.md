@@ -8,6 +8,7 @@ Hello! I'm strxnd, a passionate developer with a keen interest in programming. I
 ![Hyprland](https://img.shields.io/badge/-Hyprland-000000?style=flat-square&logo=hyprland&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ## 🌱 Currently Working On
 

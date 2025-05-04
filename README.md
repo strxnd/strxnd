@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**strxnd/strxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm strxnd, a passionate developer with a keen interest in programming. I enjoy building projects that solve real-world problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/-Hyprland-000000?style=flat-square&logo=hyprland&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+## 🌱 Currently Working On
+
+- Learning Rust
+- Learning C
+- Learning React

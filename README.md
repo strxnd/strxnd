@@ -4,14 +4,15 @@ Hello! I'm strxnd, a passionate developer with a keen interest in programming. I
 
 ## 🔧 Tools & Technologies
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/archlinux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/hyprland.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/neovim.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rust.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/c.svg" />
+<p align="left">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/hyprland" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/rust" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/c" />
+</p>
 
 ## 🌱 Currently Working On
 
 - Learning Rust
 - Learning C
-- Learning React

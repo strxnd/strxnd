@@ -11,5 +11,5 @@ Student dev interested in infra and building tools.
 
 ## Projects
 
-- **[Murmur](https://github.com/strxnd/murmur)**: System-wide AI dictation.
+- **[Murmur](https://github.com/strxnd/murmur)**: Open-source system-wide AI dictation.
 - **[HomeOps](https://github.com/strxnd/home-ops)**: K8S homelab managed with Flux and GitOps.

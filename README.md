@@ -13,4 +13,3 @@ Student dev interested in infra and building tools.
 
 - **[Murmur](https://github.com/strxnd/murmur)**: System-wide AI dictation.
 - **[HomeOps](https://github.com/strxnd/home-ops)**: K8S homelab managed with Flux and GitOps.
-# strxnd
